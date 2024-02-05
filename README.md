@@ -1,7 +1,7 @@
 ### Hi there 👋
 Additional education.  Course "Neural network Developer"
 
-Work experience.  created a neural network that defines the numbers 0-9
+Work experience.  created a neural network that defines the numbers 0-9, Parkinson's disease, stock quotes and others
 
 About me. I follow a lot of thematic chats, read articles and news from the world of neural networks. Always open to new sources of information
 
