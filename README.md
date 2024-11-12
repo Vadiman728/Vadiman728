@@ -8,6 +8,11 @@
 
 *   🌍 Я живу в Сыктывкаре
 *   ✉️ Вы можете связаться со мной по TG: @vadimiki
+*   <div id="badges">
+  <a href="https://t.me/vadimiki">
+    <img src="https://avatars.mds.yandex.net/i?id=472e427be098b5e106c48fcf3a7bb872112be8a1-5364580-images-thumbs&n=13" width="80" height="50" alt="Telegram Badge"/>
+  </a>
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left">
@@ -21,10 +26,6 @@
 
 </p>
 
-<div id="badges">
-  <a href="https://t.me/vadimiki">
-    <img src="https://avatars.mds.yandex.net/i?id=472e427be098b5e106c48fcf3a7bb872112be8a1-5364580-images-thumbs&n=13" alt="Telegram Badge"/>
-  </a>
-</div>
+
 
                     
