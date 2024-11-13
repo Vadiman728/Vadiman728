@@ -26,6 +26,13 @@
 
 </p>
 
+### :computer: Проекты, которые вы можете найти в репозитории
+## RAGs-in-game
+:question: Небольшая RAG система, которая дообучена на правилах настольной игры и способна решать спорные вопросы или выполнять роль ведущего
+:hammer_and_wrench: Стек технологий: hugging face , llama-index (llms, embeddings) , phoenix (трассировка), openai, transformers, nemoguardrails,
+
+:question: Квиз-бот с вопросами из базы банных, работающий в социальной сети Телеграм
+:hammer_and_wrench: Стек технологий: aiogram, Fast API, async, aiosqlite
 
 
                     
