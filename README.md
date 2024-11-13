@@ -32,7 +32,7 @@
 
 :hammer_and_wrench: Стек технологий: hugging face , llama-index (llms, embeddings) , phoenix (трассировка), openai, transformers, nemoguardrails,
 
-:pushpin: <a href="https://github.com/Vadiman728/RAGs-in-game" title = "Ссылка" >
+:pushpin:  [Ссылка на репу] (https://softonit.ru/)
 
 ### StarwarsTgBot
 :question: Квиз-бот с вопросами из базы банных, работающий в социальной сети Телеграм
