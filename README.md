@@ -46,7 +46,7 @@
 ---
 ### segmentation of human lungs on U-Net++
 
-:question: Модель сегментации легких человека на основе архитектуры U-Net++. Точность модели- свыше 99%
+:question: Модель сегментации легких человека на основе архитектуры U-Net++. **Точность модели- свыше 99%**
 
 :hammer_and_wrench: tensorflow, keras (layers, optimizer, model, preprocessing), numpy, pandas, matplotlib
 
