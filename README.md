@@ -35,6 +35,15 @@
 :pushpin:  Ссылка на [проект](https://github.com/Vadiman728/RAGs-in-game)
 
 ---
+### RAG with pdf files
+
+:question: Еще одна небольшая RAG система с кастомным поисковиком (wikisearch из llamaindex)
+
+:hammer_and_wrench: spacy, llama index (Vector store index, wikipedia reader, embeddings и сопутствующие библиотеки), openai
+
+:pushpin:  Ссылка на [проект](https://github.com/Vadiman728/RAG-with-PDFfile)
+
+---
 ### StarwarsTgBot
 :question: Квиз-бот с вопросами из базы банных, работающий в социальной сети Телеграм
 
@@ -42,5 +51,10 @@
 
 :pushpin:  Ссылка на [проект](https://github.com/Vadiman728/StarwarsTgBot)
 
+---
+### Нейросекретарь на интерфейсе Gradio
+:question: В этом репозитории представлен нейроконсультант вымышленного тренажерного зала который способен консультировать клиентов с помощью дообучения на документах компании
 
-                    
+:hammer_and_wrench: RAG, gradio, langchain
+
+:pushpin: Ссылка на [проект](https://github.com/Vadiman728/neuro-secretary-on-gradio)
