@@ -44,12 +44,13 @@
 :pushpin:  Ссылка на [проект](https://github.com/Vadiman728/RAG-with-PDFfile)
 
 ---
-### StarwarsTgBot
-:question: Квиз-бот с вопросами из базы банных, работающий в социальной сети Телеграм
+### segmentation of human lungs on U-Net++
 
-:hammer_and_wrench: Стек технологий: aiogram, Fast API, async, aiosqlite
+:question: Модель сегментации легких человека на основе архитектуры U-Net++. Точность модели- свыше 99%
 
-:pushpin:  Ссылка на [проект](https://github.com/Vadiman728/StarwarsTgBot)
+:hammer_and_wrench: tensorflow, keras (layers, optimizer, model, preprocessing), numpy, pandas, matplotlib
+
+:pushpin:  Ссылка на [проект](https://github.com/Vadiman728/segmentation-of-human-lungs-on-U-Net-duble-plus)
 
 ---
 ### Нейросекретарь на интерфейсе Gradio
@@ -58,3 +59,11 @@
 :hammer_and_wrench: RAG, gradio, langchain
 
 :pushpin: Ссылка на [проект](https://github.com/Vadiman728/neuro-secretary-on-gradio)
+
+---
+### StarwarsTgBot
+:question: Квиз-бот с вопросами из базы банных, работающий в социальной сети Телеграм
+
+:hammer_and_wrench: Стек технологий: aiogram, Fast API, async, aiosqlite
+
+:pushpin:  Ссылка на [проект](https://github.com/Vadiman728/StarwarsTgBot)
