@@ -34,6 +34,7 @@
 🛠️ Стек технологий: BERT, transformers, TensorFlow, hugging face, pandas, keras, sklearn.metrics(confusion matrix).
 
 📌 Ссылка на [проект](https://github.com/Vadiman728/A-model-based-on-the-BERT-architecture-for-censorship/tree/main)
+
 ---
 ### Transformer for generating russian dialogues
 
@@ -42,7 +43,6 @@
 🛠️ Стек технологий: Hugging face, transformers, tensorflow (tensorflow, text, tfds), pathlib, matplotlib, numpy, pandas
 
 📌 Ссылка на [проект](https://github.com/Vadiman728/russian_transformer_for_generating_text/tree/main)
-
 
 ---
 ### RAGs-in-game
