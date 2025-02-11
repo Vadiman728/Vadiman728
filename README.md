@@ -14,7 +14,7 @@
   </a>
 </div>
 
-Здесь находится мой [диплом](https://github.com/Vadiman728/diplom)
+# Здесь находится мой [диплом](https://github.com/Vadiman728/diplom)
 
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left">
