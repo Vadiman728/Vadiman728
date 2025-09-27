@@ -88,7 +88,7 @@
 
 
 ## 📫 Контакты
-📧 Email: sokrus.sochi@mail.ru.com  
+📧 Email: sokrus.sochi@mail.ru
 📞 Телефон: +7 (950) 569-03-12  
 💬 Telegram: [@vadimiki](https://t.me/vadimiki)  
 🌐 GitHub: [github.com/Vadiman728](https://github.com/Vadiman728)  
