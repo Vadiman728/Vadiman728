@@ -1,113 +1,94 @@
-Привет 👋 Меня зовут Вадим Манин
+# Привет 👋 Меня зовут Вадим Манин
 ================================
-
-Инженер по искусственному интеллекту / машинному обучению
------------------------------------------
-
-Я всегда тяготел к математике, анализу данных, изучению всего нового. Открыв для себя сферу машинного обучения и искусственного интеллекта, я сразу же погрузился в глубокое изучение всех источников, применял новые знания на практике, менял и экспериментировал с архитектурами нейронных сетей. Использование практических навыков в области ИИ и машинного обучения стало неотъемлемой частью моего профессионального и даже творческого развития, и я продолжаю этот путь с неугасающим энтузиазмом.
-
-*   🌍 Я живу в Сыктывкаре
-*   ✉️ Вы можете связаться со мной по TG: @vadimiki
-  <div id="badges">
-  <a href="https://t.me/vadimiki">
-    <img src="https://avatars.mds.yandex.net/i?id=472e427be098b5e106c48fcf3a7bb872112be8a1-5364580-images-thumbs&n=13" width="80" height="50" alt="Telegram Badge"/>
-  </a>
-</div>
+## ML Engineer / Data Scientist  
+================================
+🔹 Специализация: **NLP + LLM (RAG, мультиагенты, fine-tuning)**  
+🔹 Дополнительный опыт: **Computer Vision (CV), классический ML, MLOps (Docker, Kubernetes, MLflow)**  
+🔹 Цель: Разрабатывать и внедрять AI-решения, которые реально повышают эффективность бизнеса.  
 
 # Здесь находится мой [диплом](https://github.com/Vadiman728/diplom)
 
-### :hammer_and_wrench: Languages and Tools :
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title = 'Python'/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" title = 'VS Code'/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title='Google Colab' /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title='TensorFlow' /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title='PyTorch' /></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="36" height="36" />&nbsp;  
-<img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="36" height="36" />&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="36" height="36" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="36" height="36" />&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/openal/openal-original.svg" title="OpenAI" alt="openai" width="36" height="36" />&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg" title="Pandas" alt="pandas" width="36" height="36" />&nbsp; 
+## 🚀 Основные достижения
+- 📈 Повысил точность ML/LLM-моделей до **93–95%** (OCR, CV, NLP).  
+- 🤖 Внедрил AI-ботов и RAG-системы, что сократило рутинные бизнес-задачи в **2 раза**.  
+- ⚡ Оптимизировал модели (LoRA, quantization, pruning), ускорив инференс без потери качества.  
+- 🧩 Построил end-to-end пайплайны: от сбора данных и обучения моделей до деплоя в Docker/Kubernetes.  
 
-</p>
+================================
 
-## 🤖 Список ботов в тг:
+## 💼 Pet-проекты (открытые и запускаемые в Colab)
 
-Весь список ботов настроенных и созданных мной находится [тут](https://github.com/Vadiman728/tgbots/blob/main/README.md)
+### 🔹 [RAG for PDF (LlamaIndex + NeMo Guardrails)](https://github.com/Vadiman728/RAG-with-PDFfile)  
+📖 Retrieval-augmented система для анализа PDF-документов.  
+- Hugging Face модели (Mistral, LLaMA-2)  
+- FAISS + LlamaIndex  
+- NeMo Guardrails для контроля ответов  
 
-## :computer: Проекты, которые вы можете найти в репозитории
+### 🔹 [AI Chat (LLM + кастомная логика)](https://github.com/Vadiman728/ai_chat)  
+🤖 Чат-бот с LLM и кастомным классификатором.  
+- Transformers, LangChain  
+- RAG для поиска ответов  
+- FastAPI API  
 
----
+### 🔹 [OCR + NER Pipeline](https://github.com/Vadiman728/OCR-NER)  
+📄 Пайплайн для извлечения текста и сущностей из сканов.  
+- PaddleOCR + spaCy  
+- FastAPI endpoint  
+- JSON-ответ с разметкой  
 
-### AI Chat Application
-❓ Приложения для взаимодействия с ИИ через Open Router API или VSE GPT API. Подробнее в README проекта
+### 🔹 [Сегментация лёгких (U-Net++)](https://github.com/Vadiman728/segmentation-of-human-lungs-on-U-Net-duble-plus)  
+🩺 CV-задача для медицины: сегментация лёгких.  
+- PyTorch + U-Net++  
+- Метрики IoU, Dice  
+- Применение ускорения (quantization)  
 
-🛠️ Стек технологий: Python, flet, psutil, asyncio, secure-smtplib
+### 🔹 [Upscaling изображений автоэнкодером](https://github.com/Vadiman728/Upscaling-with-autoencoder)  
+🖼 Улучшение качества изображений через автоэнкодер.  
+- PyTorch Autoencoder  
+- Сравнение с bicubic interpolation  
 
-📌 Ссылка на [проект](https://github.com/Vadiman728/ai_chat)
+### 🔹 [Recommendation System (LightFM)](https://github.com/Vadiman728/Recommender-System)  
+🎬 Рекомендации фильмов/товаров.  
+- LightFM (hybrid)  
+- Коллаборативная + контентная фильтрация  
 
----
+### 🔹 [MLOps: FastAPI + Docker + MLflow](https://github.com/Vadiman728/MLOps-API)  
+⚙️ Продакшн пайплайн.  
+- FastAPI REST API  
+- Docker контейнеризация  
+- Логирование экспериментов в MLflow  
 
-### AI Chat Flutter
-❓ мультиплатформенное приложение для общения с искусственным интеллектом, разработанное с использованием Flutter. Приложение поддерживает работу как с OpenRouter.ai, так и с VseGPT.ru
+### 🔹 [Kubernetes Deployment](https://github.com/Vadiman728/K8s-ML-Service)  
+☸ Масштабируемое ML-приложение.  
+- Docker image  
+- Kubernetes Deployment + Service yaml  
+- kubectl apply  
 
-🛠️ Стек технологий: python, flet, flutter, requests
+### 🔹 [Multi-agent System (LangChain)](https://github.com/Vadiman728/Multi-Agent-System)  
+🧠 Мультиагенты для решения задач.  
+- LangChain  
+- Оркестрация агентов (retriever, summarizer, calculator)  
 
-📌 Ссылка на [проект](https://github.com/Vadiman728/simple_ai_chat)
+### 🔹 [Generative CV (Stable Diffusion)](https://github.com/Vadiman728/Generative-CV)  
+🏗 Генеративный дизайн для архитектуры.  
+- Stable Diffusion  
+- Fine-tuning на специфичном датасете  
+- Генерация планировок помещений  
 
----
+================================
 
-### Upscaling на основе автокодировщика
-❓ Модель автокодировщика, увеличивающая качество изображения. В самом блокноте небольшая модель, так как стояло ограничение бесплатной среды Google Colab, но уже для производства можно увеличивать слои и размер изображений
+## 🛠 Технические навыки
+**ML/DL:** PyTorch, TensorFlow, scikit-learn, CatBoost, LightFM  
+**NLP/LLM:** Hugging Face, Transformers, LangChain, LlamaIndex, LoRA/QLoRA, PEFT  
+**CV:** OpenCV, segmentation_models_pytorch, Diffusers (Stable Diffusion)  
+**MLOps:** Docker, Kubernetes, MLflow, FastAPI, Airflow (базово)  
+**Данные:** Pandas, NumPy, SQL, FAISS, Pinecone, PGVector  
+**Инфраструктура:** Linux, Git, Google Colab  
 
-🛠️ Стек технологий: CV 2, Keras (слои и работа с моделью), sklearn, matplotlib.
+================================
 
-📌 Ссылка на [проект](https://github.com/Vadiman728/Upscaling-with-autoencoder/blob/main/)
-
----
-### Модель на BERT архитектуре для цензурирования
-❓ Здесь представлена модель на BERT архитектуре для фильтрации комментариев на цензурные, расистские и иные тематики. Предтренировання русскоязычная BERT модель (ruBERT-tiny) обучена на русскоязычном датасете и хорошо справляется с задачей определения комментария к той или иной тематике. Так же особенность данной работы в том, что данные подготовлены минимально, что приближает эту модель для работы в "полевых" условиях
-
-🛠️ Стек технологий: BERT, transformers, TensorFlow, hugging face, pandas, keras, sklearn.metrics(confusion matrix).
-
-📌 Ссылка на [проект](https://github.com/Vadiman728/A-model-based-on-the-BERT-architecture-for-censorship/tree/main)
-
----
-### Transformer for generating russian dialogues
-
-❓ Здесь представлен трансформер, построенный на основе статьи "Attention is all you need" 
-
-🛠️ Стек технологий: Hugging face, transformers, tensorflow (tensorflow, text, tfds), pathlib, matplotlib, numpy, pandas
-
-📌 Ссылка на [проект](https://github.com/Vadiman728/russian_transformer_for_generating_text/tree/main)
-
----
-### RAGs-in-game
-:question: Небольшая RAG система, которая дообучена на правилах настольной игры и способна решать спорные вопросы или выполнять роль ведущего
-
-:hammer_and_wrench: Стек технологий: hugging face , llama-index (llms, embeddings) , phoenix (трассировка), openai, transformers, nemoguardrails,
-
-:pushpin:  Ссылка на [проект](https://github.com/Vadiman728/RAGs-in-game)
-
----
-### RAG with pdf files
-
-:question: Еще одна небольшая RAG система с кастомным поисковиком (wikisearch из llamaindex)
-
-:hammer_and_wrench: spacy, llama index (Vector store index, wikipedia reader, embeddings и сопутствующие библиотеки), openai
-
-:pushpin:  Ссылка на [проект](https://github.com/Vadiman728/RAG-with-PDFfile)
-
----
-### segmentation of human lungs on U-Net++
-
-:question: Модель сегментации легких человека на основе архитектуры U-Net++. **Точность модели- свыше 99%**
-
-:hammer_and_wrench: tensorflow, keras (layers, optimizer, model, preprocessing), numpy, pandas, matplotlib
-
-:pushpin:  Ссылка на [проект](https://github.com/Vadiman728/segmentation-of-human-lungs-on-U-Net-duble-plus)
-
----
-### Нейросекретарь на интерфейсе Gradio
-:question: В этом репозитории представлен нейроконсультант вымышленного тренажерного зала который способен консультировать клиентов с помощью дообучения на документах компании
-
-:hammer_and_wrench: RAG, gradio, langchain
-
-:pushpin: Ссылка на [проект](https://github.com/Vadiman728/neuro-secretary-on-gradio)
+## 📫 Контакты
+📧 Email: sokrus.sochi@mail.ru.com  
+📞 Телефон: +7 (950) 569-03-12  
+💬 Telegram: [@vadimiki](https://t.me/vadimiki)  
+🌐 GitHub: [github.com/Vadiman728](https://github.com/Vadiman728)  
