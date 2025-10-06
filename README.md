@@ -18,7 +18,7 @@
 
 ## 💼 Pet-проекты (открытые и запускаемые в Colab)
 
-🔹 [Scalable ML API with Kubernetes](https://github.com/Vadiman728/ml-k8s-sentiment-api)
+###🔹 [Scalable ML API with Kubernetes](https://github.com/Vadiman728/ml-k8s-sentiment-api)
 🚀 Масштабируемый REST API для ML-модели с оркестрацией в Kubernetes.
 
 - Hugging Face (RoBERTa sentiment)
