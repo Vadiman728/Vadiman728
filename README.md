@@ -21,9 +21,9 @@
 🔹 [Scalable ML API with Kubernetes](https://github.com/Vadiman728/ml-k8s-sentiment-api)
 🚀 Масштабируемый REST API для ML-модели с оркестрацией в Kubernetes.
 
-Hugging Face (RoBERTa sentiment)
-FastAPI + Docker
-Deployment с health checks, readiness probes и горизонтальным масштабированием
+- Hugging Face (RoBERTa sentiment)
+- FastAPI + Docker
+- Deployment с health checks, readiness probes и горизонтальным масштабированием
 
 ### 🔹 [RAG for PDF (LlamaIndex + NeMo Guardrails)](https://github.com/Vadiman728/RAG-with-PDFfile)  
 📖 Retrieval-augmented система для анализа PDF-документов.  
